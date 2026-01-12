@@ -1,4 +1,4 @@
-# EKS Anti-Seat Shuffle (Adjacent Only)
+# EKS Anti-Seat Shuffle
 
 A lightweight FiveM client script that **prevents automatic seat shuffling** and only allows players to shuffle seats **on command or keybind** -> **adjacent seat only** and **only if it's empty**.
 
